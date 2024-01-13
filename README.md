@@ -19,6 +19,7 @@ The Dataset is from Kaggle which contains customer information, product details,
 - Python
 - Data Visualization: Matplotlib and Seaborn
 - Development Environment: Jupyter Notebook
+- Cloud Platform: Google Cloud Platform-Firestore Database 
 
 ## Results and Insights
 Summary of the key findings, trends observed, and insights derived from the analysis.
